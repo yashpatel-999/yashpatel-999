@@ -25,12 +25,13 @@ Welcome to my GitHub! I’m passionate about building intelligent systems, solvi
 <!-- Frontend -->
 <img src="https://cdn.simpleicons.org/angular/DD0031" height="48" />
 <img src="https://cdn.simpleicons.org/html5/E34F26" height="48" />
-<img src="https://cdn.simpleicons.org/css3/1572B6" height="48" />
+<img src="https://github.com/user-attachments/assets/ac951da5-dc2c-4585-b731-bd6b02b63e64" height="48" />
 <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="48" />
 
 <!-- Backend & APIs -->
 <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="48" />
 <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="48" />
+
 
 <!-- Databases -->
 <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="48" />
