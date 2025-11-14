@@ -4,7 +4,8 @@
 Welcome to my GitHub! I’m passionate about building intelligent systems, solving real-world problems, and constantly leveling up my engineering skills. I enjoy working across full-stack development, cloud technologies, system design, and modern programming languages.
 
 ---
-<img src="https://res.cloudinary.com/dkbwvxds2/image/upload/v1763096302/Studio_Shodwe_qst1aj.png" height="60" width="100%" />
+<img src="https://res.cloudinary.com/dkbwvxds2/image/upload/v1763096302/Studio_Shodwe_qst1aj.png" height="100" width="100%" />
+
 ---
 
 ## 🚀 About Me
