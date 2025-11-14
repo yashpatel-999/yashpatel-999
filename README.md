@@ -41,6 +41,7 @@ Welcome to my GitHub! I’m passionate about building intelligent systems, solvi
 <img src="https://cdn.simpleicons.org/git/F05032" height="48" />
 
 </p>
+
 ---
 
 <img src="https://res.cloudinary.com/dkbwvxds2/image/upload/v1763096302/Studio_Shodwe_qst1aj.png" height="250" width="100%" />
