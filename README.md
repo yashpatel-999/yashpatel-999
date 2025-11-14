@@ -43,6 +43,8 @@ Welcome to my GitHub! I’m passionate about building intelligent systems, solvi
 <img src="https://cdn.simpleicons.org/linux/FCC624" height="48" />
 
 <!-- Tools -->
+<img src="https://github.com/user-attachments/assets/16c139ae-b816-455d-86a2-caef3c427655" height="48" />
+<img src="https://github.com/user-attachments/assets/dc618972-7ea9-4a7b-8571-47eb32e96849" height="48" />
 <img src="https://cdn.simpleicons.org/dbeaver/372923" height="48" />
 <img src="https://cdn.simpleicons.org/git/F05032" height="48" />
 
