@@ -12,6 +12,7 @@ Welcome to my GitHub! I’m passionate about building intelligent systems, solvi
 - 🎯 Currently focusing on **Rust, Angular projects, OS fundamentals, and cloud-native tools**
 
 ---
+## TECH STACK
 
 <p align="left">
 
@@ -20,36 +21,28 @@ Welcome to my GitHub! I’m passionate about building intelligent systems, solvi
 <img src="https://cdn.simpleicons.org/typescript/3178C6" height="48" />
 <img src="https://cdn.simpleicons.org/rust/ffffff" height="48" />
 <img src="https://cdn.simpleicons.org/python/3776AB" height="48" />
-<img src="https://cdn.simpleicons.org/csharp/239120" height="48" />
 
 <!-- Frontend -->
 <img src="https://cdn.simpleicons.org/angular/DD0031" height="48" />
-<img src="https://cdn.simpleicons.org/nextdotjs/ffffff" height="48" />
 <img src="https://cdn.simpleicons.org/html5/E34F26" height="48" />
 <img src="https://cdn.simpleicons.org/css3/1572B6" height="48" />
 <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="48" />
 
 <!-- Backend & APIs -->
-<img src="https://cdn.simpleicons.org/dotnet/512BD4" height="48" />
 <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="48" />
 <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="48" />
 
 <!-- Databases -->
 <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="48" />
-<img src="https://cdn/simpleicons.org/microsoftsqlserver/CC2927" height="48" />
 <img src="https://cdn.simpleicons.org/redis/DC382D" height="48" />
 <img src="https://cdn.simpleicons.org/clickhouse/FFDD00" height="48" />
 
 <!-- Cloud & DevOps -->
-<img src="https://cdn.simpleicons.org/microsoftazure/0078D4" height="48" />
-<img src="https://cdn.simpleicons.org/amazonaws/FF9900" height="48" />
 <img src="https://cdn.simpleicons.org/googlecloud/4285F4" height="48" />
 <img src="https://cdn.simpleicons.org/docker/2496ED" height="48" />
 <img src="https://cdn.simpleicons.org/linux/FCC624" height="48" />
 
 <!-- Tools -->
-<img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="48" />
-<img src="https://cdn.simpleicons.org/visualstudio/5C2D91" height="48" />
 <img src="https://cdn.simpleicons.org/dbeaver/372923" height="48" />
 <img src="https://cdn.simpleicons.org/git/F05032" height="48" />
 
