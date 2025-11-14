@@ -74,7 +74,7 @@ Welcome to my GitHub! I’m passionate about building intelligent systems, solvi
 
 ## 📫 Connect With Me
 - **GitHub:** [GITHUB](https://github.com/yashpatel-999) 
-- **Email:** [MAIL]thotayash47@gmail.com 
+- **Email:** thotayash47@gmail.com 
 
 ---
 
