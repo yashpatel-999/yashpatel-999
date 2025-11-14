@@ -4,17 +4,6 @@
 Welcome to my GitHub! I’m passionate about building intelligent systems, solving real-world problems, and constantly leveling up my engineering skills. I enjoy working across full-stack development, cloud technologies, system design, and modern programming languages.
 
 ---
-<img src="https://res.cloudinary.com/dkbwvxds2/image/upload/v1763096302/Studio_Shodwe_qst1aj.png" height="250" width="100%" />
-
----
-
-## 🚀 About Me
-- 🎓 Learning advanced engineering at **Nextwave Institute of Advanced Technologies (Gachibowli)**
-- 💼 Exploring automation, and AI
-- 🧠 Curious about systems from top to bottom — apps, OS, and cloud
-- 🎯 Currently focusing on **Rust, Angular projects, OS fundamentals, and cloud-native tools**
-
----
 ## TECH STACK
 
 <p align="left">
@@ -53,6 +42,18 @@ Welcome to my GitHub! I’m passionate about building intelligent systems, solvi
 <img src="https://cdn.simpleicons.org/git/F05032" height="48" />
 
 </p>
+---
+
+<img src="https://res.cloudinary.com/dkbwvxds2/image/upload/v1763096302/Studio_Shodwe_qst1aj.png" height="250" width="100%" />
+
+---
+
+## 🚀 About Me
+- 🎓 Learning advanced engineering at **Nextwave Institute of Advanced Technologies (Gachibowli)**
+- 💼 Exploring automation, and AI
+- 🧠 Curious about systems from top to bottom — apps, OS, and cloud
+- 🎯 Currently focusing on **Rust, Angular projects, OS fundamentals, and cloud-native tools**
+
 ---
 
 ## 📚 What I'm Learning Now
